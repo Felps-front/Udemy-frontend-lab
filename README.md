@@ -5,3 +5,4 @@
 - **03-projeto-css-inicio** — Estrutura semântica e posicionamento
 - **04-projeto-lista-de-contatos** — Flexbox
 - **05-projeto-price-cards** — Integração de conceitos
+- **Desafios** — Recriação de componemtes (estudo)
