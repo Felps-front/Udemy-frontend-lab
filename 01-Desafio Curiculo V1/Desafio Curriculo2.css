@@ -1,0 +1,117 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 80%;
+    margin: auto;
+    color: rgb(37, 36, 36);
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 56px;
+}
+
+
+h1 {
+    background-color: #e3e4ec;
+    color: #02040a;
+    text-align: center;
+    font-size: 46px;
+    margin-bottom: 0;
+}
+
+h2 {
+    color: #01030b;
+    background-color: #efefef;
+    font-size: 36px;
+    border-bottom: 3px solid;
+    padding: 10px;
+    margin-top: 48px;
+    margin-bottom: 12px;
+}
+
+ul {
+    padding-left: 0;
+}
+
+li {
+    list-style-position: inside;
+}
+
+.center {
+    text-align: center;
+}
+
+.subtitle {
+    margin-top: 0;
+    background-color: #333;
+}
+
+.subtitle {
+    margin-top: 0;
+    background-color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.menu {
+    text-align: center;
+}
+
+.menu li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0;
+}
+
+.menu a {
+    background-color: #a59999;
+    padding: 16px;
+    display: block;
+}
+
+.menu a:hover {
+    background-color: rgb(50, 40, 40);
+    color: #fff;
+    text-decoration: none;
+}
+
+.Menu {
+    background-color: #fff;
+    text-align: right;
+
+}
+
+.Menu li {
+
+    list-style-type: none;
+    display: inline-block;
+    padding: 0px;
+
+}
+
+.Menu a {
+    background-color: #c1bebe;
+    padding: 16px;
+}
+
+.Menu a:hover {
+    background-color: #0056b3;
+}
+
+.Menu a {
+    display: flex;
+    padding: 10px 16px;
+    background-color: #0091ff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 12px;
+    margin-right: 10px;
+}
+
+.Menu a[href*="https://youtube.com"] {
+    margin-right: 0px;
+}
+
